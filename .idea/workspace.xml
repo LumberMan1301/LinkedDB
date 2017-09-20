@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LinkedDB/Logica/ObjetoJSON/MainObjeto.class" afterPath="$PROJECT_DIR$/out/production/LinkedDB/Logica/ObjetoJSON/MainObjeto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LinkedDB/Logica/ObjetoJSON/ObjetoJSON.class" afterPath="$PROJECT_DIR$/out/production/LinkedDB/Logica/ObjetoJSON/ObjetoJSON.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java" afterPath="$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Logica/ObjetoJSON/MainObjeto.java" afterPath="$PROJECT_DIR$/src/Logica/ObjetoJSON/MainObjeto.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Logica/ObjetoJSON/ObjetoJSON.java" afterPath="$PROJECT_DIR$/src/Logica/ObjetoJSON/ObjetoJSON.java" />
     </list>
@@ -114,12 +117,24 @@
       <file leaf-file-name="ObjetoJSON.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Logica/ObjetoJSON/ObjetoJSON.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="118">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentoJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,8 +166,8 @@
       <file leaf-file-name="MainObjeto.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Logica/ObjetoJSON/MainObjeto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -206,12 +221,12 @@
         <option value="$PROJECT_DIR$/src/Estructuras/de/Listas/ListaSimple/ListaSimple.java" />
         <option value="$PROJECT_DIR$/src/Estructuras/de/Listas/ListaDoble/ListaDoble.java" />
         <option value="$PROJECT_DIR$/src/Logica/JSONStore/JSONStore.java" />
-        <option value="$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java" />
         <option value="$PROJECT_DIR$/src/Interfaz/Main.java" />
         <option value="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
         <option value="$PROJECT_DIR$/src/Interfaz/Controller.java" />
         <option value="$PROJECT_DIR$/src/Logica/ArchivosTXT/Main.java" />
         <option value="$PROJECT_DIR$/src/Logica/ObjetoJSON/MainObjeto.java" />
+        <option value="$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java" />
         <option value="$PROJECT_DIR$/src/Logica/ObjetoJSON/ObjetoJSON.java" />
       </list>
     </option>
@@ -315,6 +330,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JSONStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkedDB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkedDB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Logica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DocumentoJSON" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -937,7 +974,7 @@
       <workItem from="1505539960269" duration="2885000" />
       <workItem from="1505789467679" duration="9416000" />
       <workItem from="1505856923371" duration="603000" />
-      <workItem from="1505858597496" duration="1991000" />
+      <workItem from="1505858597496" duration="2993000" />
     </task>
     <task id="LOCAL-00001" summary="clase para el manejo de archivos txt">
       <created>1505858765160</created>
@@ -953,11 +990,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505859693423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="clase para la creacion de archivos JSON">
+      <created>1505860625163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505860625163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26626000" />
+    <option name="totallyTimeSpent" value="27628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -1045,7 +1089,8 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <MESSAGE value="clase para el manejo de archivos txt" />
     <MESSAGE value="json Simple" />
-    <option name="LAST_COMMIT_MESSAGE" value="json Simple" />
+    <MESSAGE value="clase para la creacion de archivos JSON" />
+    <option name="LAST_COMMIT_MESSAGE" value="clase para la creacion de archivos JSON" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1128,8 +1173,6 @@
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1404,13 +1447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaz/sample.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1469,20 +1505,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Logica/ObjetoJSON/MainObjeto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logica/DocumentoJSON/DocumentoJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Logica/ObjetoJSON/ObjetoJSON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="118">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
           </folding>
         </state>
       </provider>

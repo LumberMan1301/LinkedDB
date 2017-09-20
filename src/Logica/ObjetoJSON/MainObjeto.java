@@ -10,6 +10,7 @@ public class MainObjeto {
     public static void main(String [] args){
 
         crearJSON("persona");
+        crearJSON("persona");
 
     }
 }
